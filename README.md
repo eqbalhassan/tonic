@@ -5,7 +5,7 @@ TONIC
 
 `tonic` is a toolkit for working with distributed hydrologic models and their output.
 
-This is truly a work in progress...
+This is truly a work in progress.....
 
 ## Models:
 1. [Variable Infiltration Capacity (VIC) model](https://github.com/UW-Hydro/VIC)
